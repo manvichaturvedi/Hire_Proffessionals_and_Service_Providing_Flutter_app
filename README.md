@@ -23,15 +23,12 @@ From hiring electricians, designers, developers, or tutors — to offering your 
 - Send requests
 - Schedule jobs with time and date
 
-### 💬 Real-Time Chat
-- In-app messaging between users and providers (Firebase Firestore)
-
 ### ⭐ Ratings & Reviews
 - Leave feedback after completed services
 - Build trust and credibility
 
-### 📍 Location Integration *(Optional)*
-- Find providers near you using geolocation
+### Beautiful ui implementation
+- using flutter (dart)
 
 ---
 
@@ -41,8 +38,7 @@ From hiring electricians, designers, developers, or tutors — to offering your 
 |----------------|---------------------------------|
 | 🐦 Flutter      | Frontend for Android & iOS      |
 | 🔥 Firebase     | Backend services (Auth, Firestore, Storage, Messaging) |
-| 🎨 Provider / Riverpod | State management               |
-| 🧭 Google Maps API | Location-based services        |
+
 
 ---
 
