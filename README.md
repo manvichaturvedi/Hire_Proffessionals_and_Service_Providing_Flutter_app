@@ -42,7 +42,7 @@ From hiring electricians, designers, developers, or tutors — to offering your 
 ## 📸 Screenshots
 
 > ScreenShots Of UI
-![Screenshot 1](./assets/Screenshot%202025-04-20%20111225.png))  
+![Screenshot 1](./hireproffimages/image1.jpg))  
 ![Screenshot 2](./assets/Screenshot%202025-04-20%20111251.png))
 ![Screenshot 3](./assets/Screenshot%202025-04-20%20111324.png)
 > ![Screenshot 3](./assets/MenteeDasbboard.png)
