@@ -43,12 +43,12 @@ From hiring electricians, designers, developers, or tutors — to offering your 
 
 > ScreenShots Of UI
 ![Screenshot 1](./hireproffimages/image1.jpg))  
-![Screenshot 2](./assets/Screenshot%202025-04-20%20111251.png))
-![Screenshot 3](./assets/Screenshot%202025-04-20%20111324.png)
-> ![Screenshot 3](./assets/MenteeDasbboard.png)
-> > ![Screenshot 3](./assets/recomm.png)
-> ![Screenshot 3](./assets/mentees_section.png)
-> > ![Screenshot 1](./assets/referal_section.png))  
+![Screenshot 2](./hireproffimages/image2.jpg))
+![Screenshot 3](./hireproffimages/image3.jpg)
+> ![Screenshot 3](./hireproffimages/image4.jpg)
+> > ![Screenshot 3](./hireproffimages/image5.jpg)
+> ![Screenshot 3](./hireproffimages/image6.jpg)
+> > ![Screenshot 1](./hireproffimages/image7.jpg))  
 
 ---
 
