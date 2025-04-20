@@ -40,6 +40,11 @@ From hiring electricians, designers, developers, or tutors — to offering your 
 | 🔥 Firebase     | Backend services (Auth, Firestore, Storage, Messaging) |
 
 ## 📸 Screenshots
+<p align="center">
+  <img src="./hireproffimages/image1.jpg" alt="Screenshot 1" width="200"/>
+  <img src="./hireproffimages/image3" alt="Screenshot 2" width="200"/>
+  <img src="./hireproffimages/image2" alt="Screenshot 3" width="200"/>
+</p>
 
 > ScreenShots Of UI
 ![Screenshot 1](./hireproffimages/image1.jpg))  ![Screenshot 2](./hireproffimages/image2.jpg))
