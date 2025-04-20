@@ -44,16 +44,11 @@ From hiring electricians, designers, developers, or tutors — to offering your 
   <img src="./hireproffimages/image2.jpg" alt="Screenshot 1" width="200"/>
   <img src="./hireproffimages/image6.jpg" alt="Screenshot 2" width="200"/>
   <img src="./hireproffimages/image7.jpg" alt="Screenshot 3" width="200"/>
+  <img src="./hireproffimages/image1.jpg" alt="Screenshot 3" width="200"/>
+  <img src="./hireproffimages/image3.jpg" alt="Screenshot 3" width="200"/>
+  <img src="./hireproffimages/image6.jpg" alt="Screenshot 3" width="200"/>
+  <img src="./hireproffimages/image4.jpg" alt="Screenshot 3" width="200"/>
 </p>
-
-> ScreenShots Of UI
-![Screenshot 1](./hireproffimages/image1.jpg))  ![Screenshot 2](./hireproffimages/image2.jpg))
-
-![Screenshot 3](./hireproffimages/image3.jpg)
-> ![Screenshot 3](./hireproffimages/image4.jpg)
-> > ![Screenshot 3](./hireproffimages/image5.jpg)
-> ![Screenshot 3](./hireproffimages/image6.jpg)
-> > ![Screenshot 1](./hireproffimages/image7.jpg))  
 
 ---
 
