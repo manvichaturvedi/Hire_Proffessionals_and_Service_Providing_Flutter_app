@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "58038389787",
+    "firebase_url": "https://hireproffapp-default-rtdb.firebaseio.com",
+    "project_id": "hireproffapp",
+    "storage_bucket": "hireproffapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58038389787:android:4451fd8294776e2064bcbe",
+        "android_client_info": {
+          "package_name": "com.example.hire_proff_fromhone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAuQcskzNnUdri_GH1LNW6zc3Yb0gfzEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58038389787:android:d9e6a4fce49e79ea64bcbe",
+        "android_client_info": {
+          "package_name": "com.example.hireproffapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAuQcskzNnUdri_GH1LNW6zc3Yb0gfzEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
