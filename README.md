@@ -42,8 +42,8 @@ From hiring electricians, designers, developers, or tutors — to offering your 
 ## 📸 Screenshots
 
 > ScreenShots Of UI
-![Screenshot 1](./hireproffimages/image1.jpg))  
-![Screenshot 2](./hireproffimages/image2.jpg))
+![Screenshot 1](./hireproffimages/image1.jpg))  ![Screenshot 2](./hireproffimages/image2.jpg))
+
 ![Screenshot 3](./hireproffimages/image3.jpg)
 > ![Screenshot 3](./hireproffimages/image4.jpg)
 > > ![Screenshot 3](./hireproffimages/image5.jpg)
