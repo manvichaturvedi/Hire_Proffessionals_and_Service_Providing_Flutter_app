@@ -1,16 +1,55 @@
-# hireproffapp
+# 🔧 ProConnect – Hire & Offer Services Seamlessly
 
-A new Flutter project.
+**ProConnect** is a cross-platform mobile application built with **Flutter** and powered by **Firebase**. It connects users who are looking to **hire professionals** with those who **offer services** — all in one intuitive and secure platform.
 
-## Getting Started
+From hiring electricians, designers, developers, or tutors — to offering your professional skills as a service provider — **ProConnect** makes it quick, reliable, and hassle-free.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 App Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 👥 Dual Roles – User & Service Provider
+- Switch between hiring and offering services
+- Separate dashboards and functionalities
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🔍 Smart Search & Filters
+- Search professionals by skill, rating, location, or price
+- Instant results with real-time updates
+
+### 🧑‍💼 Service Provider Profiles
+- Show off your skills, portfolio, ratings, and reviews
+
+### 📅 Booking & Scheduling
+- Send requests
+- Schedule jobs with time and date
+
+### 💬 Real-Time Chat
+- In-app messaging between users and providers (Firebase Firestore)
+
+### ⭐ Ratings & Reviews
+- Leave feedback after completed services
+- Build trust and credibility
+
+### 📍 Location Integration *(Optional)*
+- Find providers near you using geolocation
+
+---
+
+## 🔧 Built With
+
+| Tech           | Description                     |
+|----------------|---------------------------------|
+| 🐦 Flutter      | Frontend for Android & iOS      |
+| 🔥 Firebase     | Backend services (Auth, Firestore, Storage, Messaging) |
+| 🎨 Provider / Riverpod | State management               |
+| 🧭 Google Maps API | Location-based services        |
+
+---
+
+## 📦 Installation & Setup
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/proconnect-app.git
+cd proconnect-app
