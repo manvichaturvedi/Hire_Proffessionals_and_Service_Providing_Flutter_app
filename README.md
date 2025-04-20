@@ -58,4 +58,4 @@ From hiring electricians, designers, developers, or tutors — to offering your 
 
 ```bash
 git clone https://github.com/your-username/proconnect-app.git
-cd proconnect-app
+cd Hire_Proff_Home-app
